@@ -45,6 +45,14 @@ The data being sent includes:
 - Run the Python server included in this repo.
 - It will listen for incoming data from the WearOS app and forward it to Sentinel.
 
+##KSL:
+
+WearOSData_CL
+| project TimeGenerated, heartrate_d
+| sort by TimeGenerated asc
+
+
+
 Some Pics
 
 ![App screenshot](./logs.png)
