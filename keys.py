@@ -1,0 +1,2 @@
+workspareid = 'ADD YOUR WORDSPACEIDHERE'
+primarykey = 'ADD YOUR PRIMARYKEYHERE'
