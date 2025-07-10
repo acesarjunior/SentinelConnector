@@ -45,5 +45,10 @@ The data being sent includes:
 - Run the Python server included in this repo.
 - It will listen for incoming data from the WearOS app and forward it to Sentinel.
 
+Some Pics
 
+![App screenshot](./logs.png)
+![App screenshot](./dashboard.png)
+![App screenshot](./server.png)
+![App screenshot](./watch.png)
 
