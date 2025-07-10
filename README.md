@@ -27,6 +27,12 @@ The data being sent includes:
 
 ## 🔧 How to use
 
+##Requirements
+
+- A workspace and a sentinel should be already configure in Azure Cloud
+- You should have your WorkspaceID and PrimaryID - found in Workspace > Agents > Log Analytics agent instructions
+- Verify if your firewall or any other security rules is blocking access either via internal ip 10.0.2.2 (in android studio emulator) or via external Ips.
+
 ### WearOS App
 - Clone or download this repo.
 - Open the WearOS project in **Android Studio**.
