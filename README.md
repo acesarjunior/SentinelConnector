@@ -1,5 +1,5 @@
 # SentinelConnector
-Just a simple connector in python for Sentinel.
+Just a simple connector in python and Kotlin for Sentinel.
 
 Welcome! 👋
 
